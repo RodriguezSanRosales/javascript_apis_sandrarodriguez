@@ -1,0 +1,75 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "name": "El padrino",
+        "year": "1998",
+        "genre": "Drama",
+        "director": "Francis Ford Coppola"
+      },
+      {
+        "id": 2,
+        "name": "La lista de Schindler",
+        "year": "1993",
+        "genre": "Historia",
+        "director": "Steven Spielberg"
+      },
+      {
+        "id": 3,
+        "name": "El viaje de Chihiro",
+        "year": "2001",
+        "genre": "Animación",
+        "director": "Hayao Miyazaki"
+      },
+      {
+        "id": 4,
+        "name": "Milagros inesperados",
+        "year": "1999",
+        "genre": "Drama",
+        "director": "Frank Darabont"
+      },
+      {
+        "id": 5,
+        "name": "Pulp Fiction",
+        "year": "1994",
+        "genre": "Crimen",
+        "director": "Quentin Tarantino"
+      },
+      {
+        "id": 6,
+        "name": "Psicosis",
+        "year": "1960",
+        "genre": "Terror",
+        "director": "Alfred Hitchcock"
+      },
+      {
+        "id": 7,
+        "name": "El club de la pelea",
+        "year": "1999",
+        "genre": "Drama",
+        "director": "David Fincher"
+      },
+      {
+        "id": 8,
+        "name": "Historia americana X",
+        "year": "1998",
+        "genre": "Drama",
+        "director": "Tony Kaye"
+      },
+      {
+        "id": 9,
+        "name": "El resplandor",
+        "year": "1980",
+        "genre": "Terror",
+        "director": "Stanley Kubrick"
+      },
+      {
+        "id": 10,
+        "name": "Perfect Blue",
+        "year": "1997",
+        "genre": "Animación",
+        "director": "Satoshi Kon"
+      }
+    ]
+  }
+  
